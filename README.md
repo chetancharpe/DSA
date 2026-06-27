@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/chetancharpe/DSA/tree/master/0541-reverse-string-ii) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/chetancharpe/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
