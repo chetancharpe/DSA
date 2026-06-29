@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/chetancharpe/DSA/tree/master/0202-happy-number) |
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/chetancharpe/DSA/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/chetancharpe/DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
