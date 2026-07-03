@@ -23,6 +23,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/chetancharpe/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/chetancharpe/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Hash Table
 |  |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/chetancharpe/DSA/tree/master/0118-pascals-triangle) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/chetancharpe/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
