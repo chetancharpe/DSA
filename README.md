@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/chetancharpe/DSA/tree/master/0029-divide-two-integers) |
+| [0090-subsets-ii](https://github.com/chetancharpe/DSA/tree/master/0090-subsets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/chetancharpe/DSA/tree/master/0016-3sum-closest) |
+| [0090-subsets-ii](https://github.com/chetancharpe/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/chetancharpe/DSA/tree/master/0118-pascals-triangle) |
 ## Dynamic Programming
 |  |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/chetancharpe/DSA/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/chetancharpe/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
