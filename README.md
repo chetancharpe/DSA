@@ -19,10 +19,12 @@
 | [0148-sort-list](https://github.com/chetancharpe/DSA/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/chetancharpe/DSA/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/chetancharpe/DSA/tree/master/0541-reverse-string-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/chetancharpe/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/chetancharpe/DSA/tree/master/0541-reverse-string-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/chetancharpe/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Linked List
 |  |
 | ------- |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/chetancharpe/DSA/tree/master/0090-subsets-ii) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/chetancharpe/DSA/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
