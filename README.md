@@ -7,11 +7,13 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/chetancharpe/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/chetancharpe/DSA/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/chetancharpe/DSA/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/chetancharpe/DSA/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/chetancharpe/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/chetancharpe/DSA/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/chetancharpe/DSA/tree/master/0090-subsets-ii) |
 ## Two Pointers
 |  |
@@ -25,6 +27,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/chetancharpe/DSA/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/chetancharpe/DSA/tree/master/0067-add-binary) |
 | [0541-reverse-string-ii](https://github.com/chetancharpe/DSA/tree/master/0541-reverse-string-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/chetancharpe/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Linked List
@@ -76,4 +79,5 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/chetancharpe/DSA/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/chetancharpe/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
