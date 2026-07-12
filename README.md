@@ -41,11 +41,13 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chetancharpe/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/chetancharpe/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/chetancharpe/DSA/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/chetancharpe/DSA/tree/master/0016-3sum-closest) |
+| [0073-set-matrix-zeroes](https://github.com/chetancharpe/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/chetancharpe/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/chetancharpe/DSA/tree/master/0118-pascals-triangle) |
 ## Dynamic Programming
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/chetancharpe/DSA/tree/master/0110-balanced-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/chetancharpe/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
