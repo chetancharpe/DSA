@@ -8,6 +8,7 @@
 | [0029-divide-two-integers](https://github.com/chetancharpe/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/chetancharpe/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/chetancharpe/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/chetancharpe/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/chetancharpe/DSA/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
@@ -53,6 +54,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/chetancharpe/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/chetancharpe/DSA/tree/master/0118-pascals-triangle) |
 ## Recursion
 |  |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/chetancharpe/DSA/tree/master/0073-set-matrix-zeroes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/chetancharpe/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
