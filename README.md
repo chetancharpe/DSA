@@ -91,14 +91,17 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/chetancharpe/DSA/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/chetancharpe/DSA/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/chetancharpe/DSA/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/chetancharpe/DSA/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/chetancharpe/DSA/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/chetancharpe/DSA/tree/master/0112-path-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -107,4 +110,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chetancharpe/DSA/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/chetancharpe/DSA/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
