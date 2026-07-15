@@ -37,6 +37,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/chetancharpe/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/chetancharpe/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/chetancharpe/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/chetancharpe/DSA/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
