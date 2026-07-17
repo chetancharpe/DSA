@@ -9,6 +9,7 @@
 | [0043-multiply-strings](https://github.com/chetancharpe/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/chetancharpe/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/chetancharpe/DSA/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/chetancharpe/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/chetancharpe/DSA/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
@@ -31,6 +32,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chetancharpe/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/chetancharpe/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/chetancharpe/DSA/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/chetancharpe/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0541-reverse-string-ii](https://github.com/chetancharpe/DSA/tree/master/0541-reverse-string-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/chetancharpe/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Linked List
