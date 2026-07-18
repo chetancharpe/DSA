@@ -87,6 +87,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/chetancharpe/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/chetancharpe/DSA/tree/master/0143-reorder-list) |
 | [2000-reverse-prefix-of-word](https://github.com/chetancharpe/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
@@ -97,16 +98,19 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/chetancharpe/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/chetancharpe/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/chetancharpe/DSA/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/chetancharpe/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/chetancharpe/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/chetancharpe/DSA/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/chetancharpe/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/chetancharpe/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/chetancharpe/DSA/tree/master/0112-path-sum) |
 ## Matrix
