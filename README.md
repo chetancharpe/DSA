@@ -100,6 +100,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chetancharpe/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/chetancharpe/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/chetancharpe/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/chetancharpe/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/chetancharpe/DSA/tree/master/0112-path-sum) |
 ## Depth-First Search
@@ -107,6 +108,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chetancharpe/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/chetancharpe/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/chetancharpe/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/chetancharpe/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/chetancharpe/DSA/tree/master/0112-path-sum) |
 ## Binary Tree
@@ -114,6 +116,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chetancharpe/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/chetancharpe/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/chetancharpe/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/chetancharpe/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/chetancharpe/DSA/tree/master/0112-path-sum) |
 ## Matrix
@@ -128,5 +131,6 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/chetancharpe/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/chetancharpe/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/chetancharpe/DSA/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
