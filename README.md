@@ -55,6 +55,7 @@
 | [0016-3sum-closest](https://github.com/chetancharpe/DSA/tree/master/0016-3sum-closest) |
 | [0073-set-matrix-zeroes](https://github.com/chetancharpe/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/chetancharpe/DSA/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chetancharpe/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/chetancharpe/DSA/tree/master/0118-pascals-triangle) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chetancharpe/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/chetancharpe/DSA/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -102,6 +104,7 @@
 | [0100-same-tree](https://github.com/chetancharpe/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/chetancharpe/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chetancharpe/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chetancharpe/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/chetancharpe/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/chetancharpe/DSA/tree/master/0112-path-sum) |
 ## Depth-First Search
@@ -120,6 +123,7 @@
 | [0100-same-tree](https://github.com/chetancharpe/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/chetancharpe/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chetancharpe/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chetancharpe/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/chetancharpe/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/chetancharpe/DSA/tree/master/0112-path-sum) |
 ## Matrix
@@ -137,4 +141,8 @@
 | [0101-symmetric-tree](https://github.com/chetancharpe/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chetancharpe/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/chetancharpe/DSA/tree/master/0112-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chetancharpe/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
