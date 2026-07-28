@@ -35,6 +35,7 @@
 | [0171-excel-sheet-column-number](https://github.com/chetancharpe/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0541-reverse-string-ii](https://github.com/chetancharpe/DSA/tree/master/0541-reverse-string-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/chetancharpe/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/chetancharpe/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/chetancharpe/DSA/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/chetancharpe/DSA/tree/master/0148-sort-list) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/chetancharpe/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -157,4 +159,8 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chetancharpe/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chetancharpe/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/chetancharpe/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
