@@ -54,6 +54,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chetancharpe/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/chetancharpe/DSA/tree/master/0016-3sum-closest) |
 | [0073-set-matrix-zeroes](https://github.com/chetancharpe/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/chetancharpe/DSA/tree/master/0090-subsets-ii) |
@@ -72,6 +73,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chetancharpe/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chetancharpe/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chetancharpe/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/chetancharpe/DSA/tree/master/0148-sort-list) |
@@ -157,6 +159,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chetancharpe/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chetancharpe/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chetancharpe/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Counting Sort
