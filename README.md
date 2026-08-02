@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/chetancharpe/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/chetancharpe/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/chetancharpe/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/chetancharpe/DSA/tree/master/0067-add-binary) |
