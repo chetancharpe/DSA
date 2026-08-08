@@ -61,6 +61,7 @@
 | [0090-subsets-ii](https://github.com/chetancharpe/DSA/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chetancharpe/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/chetancharpe/DSA/tree/master/0118-pascals-triangle) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/chetancharpe/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/chetancharpe/DSA/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/chetancharpe/DSA/tree/master/0148-sort-list) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/chetancharpe/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chetancharpe/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
