@@ -12,6 +12,7 @@
 | [0070-climbing-stairs](https://github.com/chetancharpe/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/chetancharpe/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/chetancharpe/DSA/tree/master/0202-happy-number) |
+| [1563-stone-game-v](https://github.com/chetancharpe/DSA/tree/master/1563-stone-game-v) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,11 +63,13 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chetancharpe/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/chetancharpe/DSA/tree/master/0118-pascals-triangle) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/chetancharpe/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1563-stone-game-v](https://github.com/chetancharpe/DSA/tree/master/1563-stone-game-v) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chetancharpe/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/chetancharpe/DSA/tree/master/0118-pascals-triangle) |
+| [1563-stone-game-v](https://github.com/chetancharpe/DSA/tree/master/1563-stone-game-v) |
 ## Recursion
 |  |
 | ------- |
@@ -169,4 +172,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chetancharpe/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/chetancharpe/DSA/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
